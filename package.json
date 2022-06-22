@@ -1,5 +1,5 @@
 {
-    "name": "Aine-Bot",
+    "name": "Linsss Bot",
     "version": "07.06.98",
     "description": "Customizable WhatsApp Bot",
     "depecrated": false,
@@ -27,13 +27,13 @@
         "MD",
         "baileys-md"
     ],
-    "homepage": "https://github.com/Aiinne",
+    "homepage": "https://github.com/arlinsaris",
     "author": {
-        "name": "Muhammad Ridwan Reynaldy"
+        "name": "Arlin-Saris"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/Aiinne"
+        "url": "git+https://github.com/arlinsaris"
     },
     "bugs": {
         "url": "https://github.com/Aiinne"
